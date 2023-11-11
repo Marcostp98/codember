@@ -1,5 +1,8 @@
-import { func } from './Challenge-01/challenge.js'
+// import { func } from './Challenge-01/challenge.js'
+import { minicompiler } from './Challenge-02/challenge.js'
 
-const a = func()
+// const challenge1Result = func()
+// console.log(challenge1Result)
 
-console.log(a)
+const challenge2Result = minicompiler()
+console.log(challenge2Result)
