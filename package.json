@@ -1,0 +1,26 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "codember",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcostp98/codember.git"
+  },
+  "author": "Marcostp98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcostp98/codember/issues"
+  },
+  "homepage": "https://github.com/Marcostp98/codember#readme",
+  "type": "module",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslint.json"
+  }
+}
